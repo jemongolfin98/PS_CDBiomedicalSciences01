@@ -2023,170 +2023,170 @@ public class GameControllerScript : MonoBehaviour
 
 
     // Job Option Links
-    // Job Option Links - Career Option 01
-    // Job Option Links - Career Option 01 - More Information
+    // Job Option Links - Biomedical Laboratory Technician
+    // Job Option Links - Biomedical Laboratory Technician - More Information
     public void Job01MoreLink()
     {
-        // Job 01 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Biomedical Laboratory Technician - More Info
+        Application.OpenURL("https://floridasclinicallabs.gov/resources/");
     }
-    // Job Option Links - Career Option 01 - Companies
+    // Job Option Links - Biomedical Laboratory Technician - Companies
     public void Job01Comp01Link()
     {
-        // Job 01 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Biomedical Laboratory Technician - Thermo Fisher Scientific
+        Application.OpenURL("https://jobs.thermofisher.com/global/en");
     }
     public void Job01Comp02Link()
     {
-        // Job 01 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Biomedical Laboratory Technician - Abbott Laboratories
+        Application.OpenURL("https://www.abbott.com/careers.html");
     }
     public void Job01Comp03Link()
     {
-        // Job 01 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Biomedical Laboratory Technician - Fresenius Medical Care
+        Application.OpenURL("https://jobs.freseniusmedicalcare.com/");
     }
     public void Job01Comp04Link()
     {
-        // Job 01 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Biomedical Laboratory Technician - QuidelOrtho
+        Application.OpenURL("https://www.quidelortho.com/global/en/careers/careers-home");
     }
     public void Job01Comp05Link()
     {
-        // Job 01 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Biomedical Laboratory Technician - Sonara Quest Laboratories
+        Application.OpenURL("https://www.sonoraquest.com/careers/");
     }
-    // Job Option Links - Career Option 02
-    // Job Option Links - Career Option 02 - More Information
+    // Job Option Links - Senior Clinical Research Associate
+    // Job Option Links - Senior Clinical Research Associate - More Information
     public void Job02MoreLink()
     {
-        // Job 02 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Senior Clinical Research Associate - More Info
+        Application.OpenURL("https://www.ziprecruiter.com/career/Senior-Clinical-Research-Associate/What-Is-How-to-Become");
     }
-    // Job Option Links - Career Option 02 - Companies
+    // Job Option Links - Senior Clinical Research Associate - Companies
     public void Job02Comp01Link()
     {
-        // Job 02 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Senior Clinical Research Associate - IQVIA
+        Application.OpenURL("https://jobs.iqvia.com/en");
     }
     public void Job02Comp02Link()
     {
-        // Job 02 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Senior Clinical Research Associate - ICON
+        Application.OpenURL("https://careers.iconplc.com/jobs");
     }
     public void Job02Comp03Link()
     {
-        // Job 02 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Senior Clinical Research Associate - PPD
+        Application.OpenURL("https://jobs.thermofisher.com/global/en/clinical-research");
     }
     public void Job02Comp04Link()
     {
-        // Job 02 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Senior Clinical Research Associate - Parexel
+        Application.OpenURL("https://jobs.parexel.com/en/search-jobs");
     }
     public void Job02Comp05Link()
     {
-        // Job 02 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Senior Clinical Research Associate - Syneos Health
+        Application.OpenURL("https://www.syneoshealth.com/careers");
     }
-    // Job Option Links - Career Option 03
-    // Job Option Links - Career Option 03 - More Information
+    // Job Option Links - Medical Writer
+    // Job Option Links - Medical Writer - More Information
     public void Job03MoreLink()
     {
-        // Job 03 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Writer - More Info
+        Application.OpenURL("https://info.amwa.org/ultimate-guide-to-becoming-a-medical-writer#medical_writer_resources");
     }
-    // Job Option Links - Career Option 03 - Companies
+    // Job Option Links - Medical Writer - Companies
     public void Job03Comp01Link()
     {
-        // Job 03 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Writer - Parexel
+        Application.OpenURL("https://jobs.parexel.com/en/search-jobs");
     }
     public void Job03Comp02Link()
     {
-        // Job 03 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Writer - AbbVie
+        Application.OpenURL("https://careers.abbvie.com/en/");
     }
     public void Job03Comp03Link()
     {
-        // Job 03 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Writer - Merck
+        Application.OpenURL("https://jobs.merck.com/us/en");
     }
     public void Job03Comp04Link()
     {
-        // Job 03 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Writer - AstraZeneca
+        Application.OpenURL("https://careers.astrazeneca.com/united-states");
     }
     public void Job03Comp05Link()
     {
-        // Job 03 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Writer - Trilogy Writing & Consulting
+        Application.OpenURL("https://trilogywriting.com/jobs/");
     }
-    // Job Option Links - Career Option 04
-    // Job Option Links - Career Option 04 - More Information
+    // Job Option Links - Medical Chemist
+    // Job Option Links - Medical Chemist - More Information
     public void Job04MoreLink()
     {
-        // Job 04 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Chemist - More Info
+        Application.OpenURL("https://www.acs.org/careers/chemical-sciences.html");
     }
-    // Job Option Links - Career Option 04 - Companies
+    // Job Option Links - Medical Chemist - Companies
     public void Job04Comp01Link()
     {
-        // Job 04 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Chemist - Merck
+        Application.OpenURL("https://jobs.merck.com/us/en");
     }
     public void Job04Comp02Link()
     {
-        // Job 04 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Chemist - Pfizer
+        Application.OpenURL("https://www.pfizer.com/about/careers");
     }
     public void Job04Comp03Link()
     {
-        // Job 04 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Chemist - AbbVie
+        Application.OpenURL("https://careers.abbvie.com/en/");
     }
     public void Job04Comp04Link()
     {
-        // Job 04 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Chemist - Amgen
+        Application.OpenURL("https://careers.amgen.com/en");
     }
     public void Job04Comp05Link()
     {
-        // Job 04 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Medical Chemist - Roche
+        Application.OpenURL("https://careers.roche.com/global/en/");
     }
-    // Job Option Links - Career Option 05
-    // Job Option Links - Career Option 05 - More Information
+    // Job Option Links - Environmental Engineer
+    // Job Option Links - Environmental Engineer - More Information
     public void Job05MoreLink()
     {
-        // Job 05 - More Info
-        Application.OpenURL("http://unity3d.com/");
+        // Environmental Engineer - More Info
+        Application.OpenURL("https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineers.htm");
     }
-    // Job Option Links - Career Option 05 - Companies
+    // Job Option Links - Environmental Engineer - Companies
     public void Job05Comp01Link()
     {
-        // Job 05 - Comapny 01
-        Application.OpenURL("http://unity3d.com/");
+        // Environmental Engineer - AECOM
+        Application.OpenURL("https://aecom.com/careers/");
     }
     public void Job05Comp02Link()
     {
-        // Job 05 - Comapny 02
-        Application.OpenURL("http://unity3d.com/");
+        // Environmental Engineer - AtkinsRealis
+        Application.OpenURL("https://careers.atkinsrealis.com/");
     }
     public void Job05Comp03Link()
     {
-        // Job 05 - Comapny 03
-        Application.OpenURL("http://unity3d.com/");
+        // Environmental Engineer - HDR, Inc.
+        Application.OpenURL("https://www.hdrinc.com/careers");
     }
     public void Job05Comp04Link()
     {
-        // Job 05 - Comapny 04
-        Application.OpenURL("http://unity3d.com/");
+        // Environmental Engineer - Jacobs
+        Application.OpenURL("https://www.jacobs.com/careers-jacobs");
     }
     public void Job05Comp05Link()
     {
-        // Job 05 - Comapny 05
-        Application.OpenURL("http://unity3d.com/");
+        // Environmental Engineer - Bechtel
+        Application.OpenURL("https://www.bechtel.com/careers/");
     }
 
 
